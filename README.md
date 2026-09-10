@@ -44,7 +44,7 @@ Key parameters you can tune at the bottom of the script:
 
 ## Screenshot
 
-![Fractal Tree within a Koch Snowflake](Gemini_Generated_Image_ue439vue439vue43.jfif)
+![Fractal Tree within a Koch Snowflake](fractal.png)
 
 ## Student Information
 
