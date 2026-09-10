@@ -42,7 +42,11 @@ Key parameters you can tune at the bottom of the script:
 - `depth` / `n_arms` / `spread` / `shrink` in each `draw_tree_star(...)` call — controls how many branches, how wide they splay, and how quickly they shrink.
 - `r_outer` in `draw_core(...)` — size of the glowing center.
 
+## Screenshot
+
+![Fractal Tree within a Koch Snowflake](Gemini_Generated_Image_ue439vue439vue43.jfif)
+
 ## Student Information
 
-- **Name:** Muhammad Bilal
-- **Registration Number:** 542332
+- **Name:** _[Muhammad Bilal]_
+- **Registration Number:** _[542332]_
